@@ -25,7 +25,7 @@ SASS (SCSS Syntax)
 
 📦 Installation & Usage
 1️⃣ Clone the repository:
-git clone https://github.com/your-username/profile-card-sass.git
+git clone https://github.com/wassimchamakh/exemple-sass-project.git
 
 2️⃣ Navigate to the project folder:
 cd profile-card-sass
